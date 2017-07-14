@@ -1,0 +1,1 @@
+alert('I pity the fool');
